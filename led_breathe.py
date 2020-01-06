@@ -15,6 +15,6 @@ try:
             pi.hardware_PWM(LED_1, PWM_FREQ, i*10000)
             time.sleep(0.1)
 except KeyboardInterrupt:
-    print('關閉程式')
+    print('停止閃爍')
 finally:
     pi.set_mode(LED_1, pigpio.INPUT)
