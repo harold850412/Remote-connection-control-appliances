@@ -1,6 +1,7 @@
 ###### tags: `物聯網`
 # 遠端控制系統
 # 專案影片範例網址
+[此連結為範例教學影片](https://www.youtube.com/watch?v=aaceCnIRCEU)
 # 請先裝好 Raspberry pi 的環境
 [安裝教學連結](https://drive.google.com/file/d/1VUlZtWC8SswSpZoP-LXKf7S2FR2fCVGy/view?usp=sharing)
 # 1、藍芽連線相關套件安裝
