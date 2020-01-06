@@ -42,6 +42,7 @@ sudo nano /etc/systemd/system/dbus-org.bluez.service
 * 在 raspberry pi 和手機裝置兩方都先進行配對
 
 ![](https://i.imgur.com/sHpEvw8.jpg)
+
 (Galaxy J7 為已先配對好的手機裝置)
 
 * 連接前先輸入以下指令來回應裝置的掃描訊號
