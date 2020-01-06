@@ -1,5 +1,1 @@
-# 遠端控制系統
-# 專案影片範例網址
-# 請先裝好 Raspberry pi 的環境
-安裝教學連結
-# 1、藍芽連線相關套件安裝
+<script src="https://gist.github.com/harold850412/cc34d1186a48b2126d6c47b707e4ccaf.js"></script>
